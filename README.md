@@ -4,7 +4,7 @@ Which Indian districts need the most help, and in which sector: health or educat
 
 This project combines district-level health and education indicators from NFHS-5 (2019-21) into one **District Development Index** for 642 districts, groups the districts by their pattern of weakness, and turns the results into a short policy brief and an interactive dashboard.
 
-**Live dashboard:** [ADD YOUR LOOKER STUDIO LINK HERE]
+**Live dashboard:** [https://datastudio.google.com/reporting/429e7dbe-e88b-4439-bcc2-8dfa4b0b4739]
 **Policy brief (PDF):** [brief/policy_brief.pdf](brief/policy_brief.pdf)
 
 ---
@@ -71,9 +71,9 @@ The district CSV files are an unofficial conversion of the official PDFs, so som
 
 The Looker Studio report has three pages:
 
-1. **Overview:** number of districts, share in the Priority group, average index, and the top 10 and bottom 10 districts.
-2. **States:** share of Priority districts by state, and average health and education scores by state (states with 10 or more districts).
-3. **Districts:** scatter plot of health vs education score, and a searchable district ranking table with State and Segment filters.
+1. **Overview:** (dashboard/page1_overview.png).
+2. **States:**(dashboard/page2_states.png).
+3. **Districts:** (dashboard/page3_districts.png)
 
 ---
 
@@ -124,4 +124,4 @@ Python libraries: pandas, numpy, scikit-learn, scipy, matplotlib.
 ## Author
 
 **Rohan Lakade**: Computer Science student interested in data analytics and business intelligence.
-[LinkedIn](ADD YOUR LINKEDIN URL) · lakaderohan16@gmail.com
+[LinkedIn]((www.linkedin.com/in/rohan-lakade-913a502a7 ) · lakaderohan16@gmail.com
