@@ -124,4 +124,4 @@ Python libraries: pandas, numpy, scikit-learn, scipy, matplotlib.
 ## Author
 
 **Rohan Lakade**: Computer Science student interested in data analytics and business intelligence.
-[LinkedIn](www.linkedin.com/in/rohan-lakade-913a502a7 ) · lakaderohan16@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rohan-lakade-913a502a7) · lakaderohan16@gmail.com
